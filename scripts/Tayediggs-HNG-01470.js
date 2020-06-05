@@ -1,14 +1,9 @@
-const name = 'Abiola Taiwo';
-const id = 'HNG-01470';
-const email = 'abiolataiwo36@yahoo.com';
-const language = 'Javascript';
+const _name = 'Abiola Taiwo';
+const _id = 'HNG-01470';
+const _lang = 'Javascript';
+const _email = 'abiolataiwo36@yahoo.com';
 
-const output = function(num) {
-    if(num % 2 === 0) {
-        return 'Hello World, this is ${name} with HNGi7 ID ${id} and email ${email} using ${language} for stage 2 task';
-    } else {
-        return null;  
-    }
-}
-
-console.log(output(66));
+function getinfo() {
+        return 'Hello World, this is ${_name} with HNGi7 ID ${_id} and email ${_email} using ${_lang} for stage 2 task'
+    } 
+console.log(getinfo())
