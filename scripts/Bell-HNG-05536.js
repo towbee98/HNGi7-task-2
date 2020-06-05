@@ -1,6 +1,6 @@
 
 
-let myName = "Omuboye, CrystalBell Kalada";
+let myName = "Omuboye CrystalBell Kalada";
 let myID = "HNG-05536";
 let myEmail = "crystalbell.omuboye@gmail.com";
 let myLanguage = "JavaScript";
