@@ -6,7 +6,7 @@ let lastName = "Nzomo";
 let fullName = firstName+ ' ' + lastName;
 
 // set HNGi7 ID 
-let HNGi7_ID = "HNG-01562"; 
+let HNGi7_ID = "HNG-01561"; 
 
 // email
 let email = "muathanzomo1@gmail.com"
