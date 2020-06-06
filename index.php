@@ -264,7 +264,7 @@ if ($jsonEnabled) {
     list($outs, $totalInternsSubmitted, $totalPassOutput, $totalFailOutput) = outputFiles("scripts");
 
     header('Content-Type: application/json'); // set json header
-    echo json_encode($outs['valid']);
+    echo json_encode($outs['invalid']);
 } else {
 ?>
     <html lang="en">
