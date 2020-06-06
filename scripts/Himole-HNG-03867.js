@@ -4,7 +4,7 @@ let openingMessage = 'Hello World';
         let lastName =  'Imole';
         let myName = `${surname} ${firstName} ${lastName}`;
         let id = 'HNG-03867';
-        let emailAddress = 'matthhew.feranmi@outlook.com';
+        let emailAddress = 'matthew.feranmi@outlook.com';
         let scriptMethod = 'JavaScript';
 
         console.log(`${openingMessage}, this is ${myName} with HNGi7 ID ${id} and email ${emailAddress} using ${scriptMethod} for stage 2 task`)
