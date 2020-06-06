@@ -12,7 +12,7 @@ let HNGi7_ID = "HNG-01516";
 
 let language = "JavaScript";
 
-let result = `Hello World, this is ${fullName} with HNGi7 ID ${HNGi7_ID} using ${language} for stage 2 task`;
+let result = `Hello World, this is ${fullName} with HNGi7 ID ${HNGi7_ID} and email muathanzomo1@gmail.com using ${language} for stage 2 task`;
 console.log(result);
 
 
