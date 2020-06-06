@@ -5,4 +5,4 @@ const hng = {
     language: 'Javascript'
 };
 
-console.log(`Hello World, this is ${hng.name} with HNGi7 ID ${hng.internshipId}, and email ${hng.emailAddress} using ${hng.language} for stage 2 task`)
+console.log(`Hello World, this is ${hng.name} with HNGi7 ID ${hng.internshipId} and email ${hng.emailAddress} using ${hng.language} for stage 2 task`)
