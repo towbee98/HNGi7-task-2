@@ -1,10 +1,7 @@
-const info = {
-  fullName: "Emmanuel Udo",
-  hngID: "HNG-01763",
-  myEmail: "emmaudo01@gmail.com",
-  language: "JavaScript",
-};
+const fullName = "Emmanuel Udo";
+const hngID = "HNG-01763";
+const myEmail = "emmaudo01@gmail.com";
+const language = "JavaScript";
 
-const greeting = `Hello World, this is ${info.fullName} with HNGi7 ID ${info.hngID} and email ${myEmail}using ${info.language} for stage 2 task`;
-
-console.log(greeting);
+const output = `Hello World, this is ${fullName} with HNGi7 ID ${hngID} and email ${myEmail} using ${language} for stage 2 task`;
+console.log(output);
