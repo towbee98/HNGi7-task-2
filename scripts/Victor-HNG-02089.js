@@ -5,7 +5,7 @@ function hello() {
   let language = "javascript";//prefered language
   const mail = "ozokweluvic@gmail.com";//email
   console.log(
-    `Hello World,this is ${fullname} with HNGi7 ID ${ID} and email ${e_mail} using ${language} for stage 2`
+    `Hello World, this is ${fullname} with HNGi7 ID ${ID} and email ${e_mail} using ${language} for stage 2 task`
   )
 
 }
