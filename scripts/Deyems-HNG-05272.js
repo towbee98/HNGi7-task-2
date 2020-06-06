@@ -1,6 +1,6 @@
 class hngTask{
-  constructor(fullname,id,email,language){
-    this.fullname = fullName;
+  constructor(fullName,id,email,language){
+    this.fullName = fullName;
     this.id = id;
     this.email = email;
     this.language = language;
