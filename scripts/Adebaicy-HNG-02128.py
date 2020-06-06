@@ -1,5 +1,5 @@
 def callhng():
-	return "Hello World, this is Adejumo Oluwapelumi Oluwaseyi with HNGi7 ID HNG-02128 using python for stage 2 task. adebaice@gmail.com"
+	return "Hello World, this is Adejumo Oluwapelumi Oluwaseyi with HNGi7 ID HNG-02128 and email adebaice@gmail.com using python for stage 2 task"
 
 b = callhng()
-print(b, flush = True)
+print(b)
