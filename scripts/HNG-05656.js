@@ -4,7 +4,7 @@ function taskTwo(name,intershipID,email){
     this.email = email;
     
     this.detail = function(){
-        return "Hello World, this is " + this.name + " with HNGi7 ID " + this.intershipID + " and  email " + this.email + " using Javascript for stage 2 task"
+        return "Hello World, this is " + this.name + " with HNGi7 ID " + this.intershipID + " and email " + this.email + " using Javascript for stage 2 task"
     }
 }
 

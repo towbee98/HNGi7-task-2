@@ -7,7 +7,7 @@ $id = 'HNG-01869';
 $email = 'email sniyokratos@outlook.com';
 $lang = 'php';
 
-echo "<h3> {$greet} this is {$name} with HNGi7 ID {$id} and {$email} using $lang for stage 2 task";
+echo "{$greet} this is {$name} with HNGi7 ID {$id} and {$email} using $lang for stage 2 task";
 
 
 ?>
