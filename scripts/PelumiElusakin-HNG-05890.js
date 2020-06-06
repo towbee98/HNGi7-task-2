@@ -5,4 +5,4 @@ let language = 'JavaScript';
 
 
 
-console.log("Hello World, this is " + fullname + " with HNGi7 ID " + ID + " and email " + email +  " using " + language + " for stage 2 task ");
+console.log('Hello World, this is Elusakin Pelumi with HNGi7 ID HNG-05890 and email eomopelumi@gmail.com using JavaScript for stage 2 task');
