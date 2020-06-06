@@ -1,4 +1,4 @@
-let greeting ='hello World,';
+let greeting ='Hello World,';
 let name = 'Owolabi Comfort';
 let  id = 'HNG-01306';
 let email = 'comfortowo4@gmail.com'
