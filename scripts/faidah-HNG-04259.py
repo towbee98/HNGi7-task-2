@@ -1,2 +1,2 @@
-name, id, lang, email = "Faheedat Opeyemi Abdulsalam", "HNG-04259", "Python", "fahidah.abdussalam@gmail.com"
-print(f"Hello World, This is {name} with HNGi7 ID {id} using {lang} for stage 2 task, my email is {email}.")
+name, ID, language, email = "Faheedat Opeyemi Abdulsalam", "HNG-04259", "Python", "fahidah.abdussalam@gmail.com"
+print(f"Hello World, this is {name} with HNGi7 ID {ID} and email {email} using {language} for stage 2 task")

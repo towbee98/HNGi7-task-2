@@ -1,13 +1,11 @@
 <?php
-    $full_name = "Awoniyi Abiodun Abbey";
-    $ID = "HNG-01032";
+    $name = "Awoniyi Abiodun";
+    $Id = "HNG-01032";
     $email = "dolapo140@gmail.com";
     $language = "php";
+    $output = "Hello World, this is Awoniyi Abiodun with HNGi7 ID HNG-01032 and email dolapo140@gmail.com using php for stage 2 task";
 
-
-    $output = "Hello world this is"  . $full_name . "with HNG" .$ID ."and email".$email . "using".$language. "for stage 2 ";
-
-    echo ($output);
+    echo $output;
 
 
 ?>
