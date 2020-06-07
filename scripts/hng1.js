@@ -11,7 +11,6 @@ const output = () => {
     " with HNGi7 ID " +
     info.hngId +
     " and email " +
-    info.language +
     info.email +
     " using " +
     info.language +
